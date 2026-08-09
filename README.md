@@ -1,22 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Hi,%20I'm%20Elisha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20developer%20%7C%20PHP%20·%20JS%20·%20MySQL&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://github.com/elishadowww">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;PHP+%2B+MySQL+%2B+JavaScript;Always+shipping+something+new" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/elishadowww/elishadowww/main/assets/banner.svg" width="100%" alt="Elisha Tiong — full-stack developer, PHP, JavaScript, MySQL"/>
 
 </div>
 
 I build full-stack web applications — from front-end UI to back-end auth, admin panels, and database design.
 
-<div align="center">
-
 ## 🛠️ Skills
 
-<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,supabase,git&theme=dark" />
-
-</div>
+![PHP](https://img.shields.io/badge/PHP-0a0f1e?style=flat-square&logo=php&logoColor=4ce8f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0f1e?style=flat-square&logo=javascript&logoColor=4ce8f7)
+![HTML5](https://img.shields.io/badge/HTML5-0a0f1e?style=flat-square&logo=html5&logoColor=4ce8f7)
+![CSS3](https://img.shields.io/badge/CSS3-0a0f1e?style=flat-square&logo=css3&logoColor=4ce8f7)
+![MySQL](https://img.shields.io/badge/MySQL-0a0f1e?style=flat-square&logo=mysql&logoColor=4ce8f7)
+![Supabase](https://img.shields.io/badge/Supabase-0a0f1e?style=flat-square&logo=supabase&logoColor=4ce8f7)
+![Git](https://img.shields.io/badge/Git-0a0f1e?style=flat-square&logo=git&logoColor=4ce8f7)
 
 ## 🚀 Featured Projects
 
@@ -30,12 +28,12 @@ A personal bio / portfolio website built with HTML, CSS, and JavaScript.
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=elishadowww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=elishadowww&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=elishadowww&show_icons=true&hide_border=true&count_private=true&bg_color=0a0f1e&title_color=4ce8f7&icon_color=f736c9&text_color=dceeff&border_color=32405e" />
+<img height="165" src="https://streak-stats.demolab.com?user=elishadowww&hide_border=true&background=0a0f1e&ring=4ce8f7&fire=f736c9&currStreakLabel=4ce8f7&sideNums=dceeff&sideLabels=6e86a8&dates=6e86a8&currStreakNum=eaf9ff" />
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=elishadowww&theme=algolia&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=elishadowww&theme=onedark&no-frame=true&row=1&column=6" />
 
 ## 🐍 Contribution Snake
 
@@ -45,12 +43,10 @@ A personal bio / portfolio website built with HTML, CSS, and JavaScript.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/elishadowww/elishadowww/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
+</div>
+
 ## 📫 Contact
 
 <!-- Add the links you actually want public, e.g.: -->
 <!-- - LinkedIn: [your-linkedin] -->
 <!-- - Email: [your-public-contact-email] -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
-
-</div>

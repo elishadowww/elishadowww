@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Elisha Tiong — full-stack developer, PHP, JavaScript, MySQL">
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#4ce8f7" stroke-width="1" opacity="0.12"/>
+    </pattern>
+    <radialGradient id="fadeGrad" cx="28%" cy="15%" r="80%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <mask id="fadeMask">
+      <rect width="900" height="260" fill="url(#fadeGrad)"/>
+    </mask>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4ce8f7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#4ce8f7" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#4ce8f7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .scan { animation: scan 6s linear infinite; }
+      @keyframes scan { from { transform: translateX(0); } to { transform: translateX(1040px); } }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) {
+        .scan, .cursor { animation: none; }
+      }
+      text { font-family: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+
+  <rect width="900" height="260" fill="#0a0f1e"/>
+  <rect width="900" height="260" fill="url(#grid)" mask="url(#fadeMask)"/>
+  <rect class="scan" x="-140" y="0" width="140" height="260" fill="url(#scanGrad)"/>
+
+  <text x="48" y="40" font-size="13" fill="#4ce8f7">~/elishadowww</text>
+
+  <text x="48" y="98" font-size="38" font-weight="600" fill="#eaf9ff" filter="url(#glow)">Elisha Tiong</text>
+
+  <text x="48" y="130" font-size="14" fill="#6e86a8">// <tspan fill="#f736c9">full-stack developer — php · js · mysql</tspan></text>
+
+  <!-- skill pills -->
+  <g font-size="11.5" fill="#9fe8f4">
+    <rect x="48" y="150" width="62" height="26" rx="3" fill="#4ce8f7" fill-opacity="0.05" stroke="#4ce8f7" stroke-opacity="0.4"/>
+    <text x="79" y="167" text-anchor="middle">PHP</text>
+
+    <rect x="120" y="150" width="112" height="26" rx="3" fill="#4ce8f7" fill-opacity="0.05" stroke="#4ce8f7" stroke-opacity="0.4"/>
+    <text x="176" y="167" text-anchor="middle">JavaScript</text>
+
+    <rect x="242" y="150" width="78" height="26" rx="3" fill="#4ce8f7" fill-opacity="0.05" stroke="#4ce8f7" stroke-opacity="0.4"/>
+    <text x="281" y="167" text-anchor="middle">MySQL</text>
+
+    <rect x="330" y="150" width="98" height="26" rx="3" fill="#4ce8f7" fill-opacity="0.05" stroke="#4ce8f7" stroke-opacity="0.4"/>
+    <text x="379" y="167" text-anchor="middle">Supabase</text>
+  </g>
+
+  <text x="48" y="215" font-size="13" fill="#4ce8f7">&gt; status: online — always building</text>
+  <rect class="cursor" x="320" y="203" width="7" height="14" fill="#4ce8f7"/>
+</svg>
