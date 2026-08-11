@@ -22,7 +22,7 @@ A personal bio and portfolio site.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=elishadowww&show_icons=true&hide_border=true&count_private=true&bg_color=0a0f1e&title_color=4ce8f7&icon_color=f736c9&text_color=dceeff&border_color=32405e" />
+<img height="165" src="https://github-readme-stats-eosin-gamma-58.vercel.app/api?username=elishadowww&show_icons=true&hide_border=true&count_private=true&bg_color=0a0f1e&title_color=4ce8f7&icon_color=f736c9&text_color=dceeff&border_color=32405e" />
 <img height="165" src="https://streak-stats.demolab.com?user=elishadowww&hide_border=true&background=0a0f1e&ring=4ce8f7&fire=f736c9&currStreakLabel=4ce8f7&sideNums=dceeff&sideLabels=6e86a8&dates=6e86a8&currStreakNum=eaf9ff" />
 
 </div>
