@@ -27,14 +27,6 @@ A personal bio and portfolio site.
 
 </div>
 
-## `$ cat trophies.log`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=elishadowww&theme=onedark&no-frame=true&row=1&column=6" />
-
-</div>
-
 ## `$ open contact.txt`
 
 <!-- Add the links you actually want public, e.g.: -->
