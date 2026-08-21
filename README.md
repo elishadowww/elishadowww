@@ -6,6 +6,16 @@
 
 I build full-stack web applications — from front-end UI to back-end auth, admin panels, and database design.
 
+## `$ connect --to=me`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4ce8f7?style=for-the-badge&logo=linkedin&logoColor=0a0f1e)](https://www.linkedin.com/in/elisha-tiong-pei-pei)
+[![GitHub](https://img.shields.io/badge/GitHub-f736c9?style=for-the-badge&logo=github&logoColor=0a0f1e)](https://github.com/elishadowww)
+[![Gmail](https://img.shields.io/badge/Gmail-4ce8f7?style=for-the-badge&logo=gmail&logoColor=0a0f1e)](mailto:tiongepp@gmail.com)
+
+</div>
+
 ## `$ cat skills.md`
 
 <img src="https://raw.githubusercontent.com/elishadowww/elishadowww/main/assets/skills.svg" width="100%" alt="PHP, JavaScript, HTML5, CSS3, MySQL, Supabase, Git"/>
@@ -27,7 +37,18 @@ Scroll-driven bio site with an animated journey timeline and project showcase.
 
 </div>
 
-## `$ open contact.txt`
+## `$ ./activity.sh --graph`
 
-- LinkedIn: [linkedin.com/in/elisha-tiong-pei-pei](https://www.linkedin.com/in/elisha-tiong-pei-pei)
-- GitHub: [@elishadowww](https://github.com/elishadowww)
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=elishadowww&bg_color=0a0f1e&color=dceeff&line=4ce8f7&point=f736c9&area=true&area_color=4ce8f7&hide_border=true&custom_title=elishadowww's%20Contribution%20Graph" />
+
+</div>
+
+## `$ fortune`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/elishadowww/elishadowww/main/assets/quote.svg" width="100%" alt="Talk is cheap. Show me the code. — Linus Torvalds"/>
+
+</div>

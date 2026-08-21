@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Quote: Talk is cheap. Show me the code. — Linus Torvalds">
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#4ce8f7" stroke-width="1" opacity="0.10"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      text { font-family: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+
+  <rect width="900" height="130" fill="#0a0f1e"/>
+  <rect width="900" height="130" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="899" height="129" fill="none" stroke="#4ce8f7" stroke-opacity="0.25"/>
+
+  <text x="32" y="30" font-size="12" fill="#4ce8f7">$ fortune</text>
+
+  <text x="32" y="58" font-size="46" fill="#f736c9" fill-opacity="0.5" filter="url(#glow)">&#8220;</text>
+
+  <text x="70" y="55" font-size="17" fill="#eaf9ff">Talk is cheap. Show me the code.</text>
+
+  <text x="850" y="95" font-size="13" fill="#6e86a8" text-anchor="end">&#8212; Linus Torvalds</text>
+</svg>
