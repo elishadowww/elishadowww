@@ -16,7 +16,7 @@ I build full-stack web applications — from front-end UI to back-end auth, admi
 Customer storefront, shopping cart, order flow, and a full admin dashboard for products, users, and orders.
 
 ### [MyBio](https://github.com/elishadowww/MyBio) — personal portfolio (HTML · CSS · JS)
-A personal bio and portfolio site.
+Scroll-driven bio site with an animated journey timeline and project showcase.
 
 ## `$ ./stats.sh --verbose`
 
@@ -29,6 +29,5 @@ A personal bio and portfolio site.
 
 ## `$ open contact.txt`
 
-<!-- Add the links you actually want public, e.g.: -->
-<!-- - LinkedIn: [your-linkedin] -->
-<!-- - Email: [your-public-contact-email] -->
+- LinkedIn: [linkedin.com/in/elisha-tiong-pei-pei](https://www.linkedin.com/in/elisha-tiong-pei-pei)
+- GitHub: [@elishadowww](https://github.com/elishadowww)
