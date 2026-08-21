@@ -6,7 +6,7 @@
 
 I build full-stack web applications — from front-end UI to back-end auth, admin panels, and database design.
 
-## `$ connect --to=me`
+## 🌐 Connect with Me
 
 <div align="center">
 
@@ -16,11 +16,11 @@ I build full-stack web applications — from front-end UI to back-end auth, admi
 
 </div>
 
-## `$ cat skills.md`
+## 💻 Tech Stack
 
 <img src="https://raw.githubusercontent.com/elishadowww/elishadowww/main/assets/skills.svg" width="100%" alt="PHP, JavaScript, HTML5, CSS3, MySQL, Supabase, Git"/>
 
-## `$ ls projects/`
+## 📂 Projects
 
 ### [GadgetLoop](https://github.com/elishadowww/GadjetLoop) — full-stack e-commerce (PHP · MySQL · Supabase)
 Customer storefront, shopping cart, order flow, and a full admin dashboard for products, users, and orders.
@@ -28,7 +28,7 @@ Customer storefront, shopping cart, order flow, and a full admin dashboard for p
 ### [MyBio](https://github.com/elishadowww/MyBio) — personal portfolio (HTML · CSS · JS)
 Scroll-driven bio site with an animated journey timeline and project showcase.
 
-## `$ ./stats.sh --verbose`
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Scroll-driven bio site with an animated journey timeline and project showcase.
 
 </div>
 
-## `$ ./activity.sh --graph`
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Scroll-driven bio site with an animated journey timeline and project showcase.
 
 </div>
 
-## `$ fortune`
+## 💬 Random Dev Quote
 
 <div align="center">
 

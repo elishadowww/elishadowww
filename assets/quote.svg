@@ -20,7 +20,7 @@
   <rect width="900" height="130" fill="url(#grid)"/>
   <rect x="0.5" y="0.5" width="899" height="129" fill="none" stroke="#4ce8f7" stroke-opacity="0.25"/>
 
-  <text x="32" y="30" font-size="12" fill="#4ce8f7">$ fortune</text>
+  <text x="32" y="30" font-size="12" fill="#4ce8f7">💬 quote of the day</text>
 
   <text x="32" y="58" font-size="46" fill="#f736c9" fill-opacity="0.5" filter="url(#glow)">&#8220;</text>
 
